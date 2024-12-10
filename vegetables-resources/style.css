@@ -28,7 +28,7 @@ article{
     width: 450px;
     background-color: #E0E6A6;
     display: flex;
-    flex-wrap: wrap;
+  
     justify-content: center;
     align-items: center;
     flex-direction: column;
